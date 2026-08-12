@@ -27,7 +27,6 @@ Nas horas vagas, também sou **Game Developer 🎮**, explorando desenvolvimento
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/filipe-fonseca-bittencourt)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/filipefb900/)
 
 ---
@@ -59,37 +58,5 @@ Nas horas vagas, também sou **Game Developer 🎮**, explorando desenvolvimento
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
-
----
-
-## 🧠 Atualmente estudando
-
-```text
-Software Engineering
-Backend Development
-Software Architecture
-Algorithms & Data Structures
-Operating Systems
-Databases
-Cloud Computing
-Artificial Intelligence
-Machine Learning
-```
-
----
-
-## 🎮 Além do código
-
-Quando não estou trabalhando ou estudando desenvolvimento de software, gosto de explorar **Game Development**.
-
-Tenho interesse na criação de:
-
-* Sistemas de gameplay
-* Inteligência Artificial para jogos
-* Mecânicas
-* Arquitetura de jogos
-* Jogos de terror
-* Experiências multiplayer
-* Procedural Generation
 
 ---
