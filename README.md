@@ -1,103 +1,95 @@
-# 👋 Olá, eu sou o Filipe
+# Olá 👋 Meu nome é Filipe Fonseca
 
-Sou estudante de **Ciência da Computação** da **UERJ** e desenvolvedor focado em construção de sistemas, arquitetura de software, automação e Inteligência Artificial.
+---
 
-Tenho interesse especial em criar soluções completas, desde a arquitetura e banco de dados até APIs, infraestrutura e integração com serviços externos.
+## 🎓 Sobre mim
 
-## 🚀 Sobre mim
+Sou estudante de **Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ)**, apaixonado por tecnologia, desenvolvimento de software e pela construção de sistemas robustos e escaláveis.
 
-* 🎓 Estudante de **Ciência da Computação**
-* 💻 Desenvolvedor de Software
-* 🐍 Forte experiência com **Python**
-* ⚙️ Interesse em **Backend, Arquitetura e Engenharia de Software**
-* 🤖 Explorando **Machine Learning e Inteligência Artificial**
-* 🎮 Experiência com desenvolvimento de jogos
-* ☁️ Interesse em Cloud, sistemas distribuídos e infraestrutura
-* 🧠 Sempre buscando entender como sistemas funcionam por baixo dos panos
+Tenho interesse principalmente em **Engenharia de Software, Backend, Arquitetura de Sistemas, Cloud Computing e Inteligência Artificial**.
 
-## 🛠️ Tecnologias
+Nas horas vagas, também sou **Game Developer 🎮**, explorando desenvolvimento de jogos, mecânicas, sistemas e criação de experiências interativas.
+
+---
+
+## 🚀 O que eu faço
+
+* 💻 Desenvolvimento de aplicações e sistemas utilizando **Python, Java e TypeScript**
+* ⚙️ Construção de APIs e aplicações backend
+* 🧠 Estudo de algoritmos, estruturas de dados e arquitetura de software
+* ☁️ Desenvolvimento e exploração de soluções em Cloud
+* 🗄️ Trabalho com bancos de dados relacionais
+* 🤖 Exploração de Inteligência Artificial e Machine Learning
+* 🎮 Desenvolvimento de jogos nas horas vagas
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/filipe-fonseca-bittencourt)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/filipefb900/)
+
+---
+
+# 💻 Tech Stack
 
 ### Linguagens
 
-```text
-Python
-TypeScript
-JavaScript
-C#
-C++
-SQL
-Luau
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### Backend & Dados
+### Backend & Banco de Dados
 
-```text
-PostgreSQL
-Oracle
-Redis
-Kafka
-Prisma
-REST APIs
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### Infraestrutura & Cloud
+### Cloud & DevOps
 
-```text
-Docker
-Kubernetes
-AWS
-Oracle Cloud Infrastructure
-Git
-GitHub
-Linux
-```
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### Game Development
+### 🎮 Game Development
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
+
+---
+
+## 🧠 Atualmente estudando
 
 ```text
-Unreal Engine
-Godot
-Roblox Studio
-```
-
-## 🧩 Áreas de interesse
-
-```text
-Backend Engineering
+Software Engineering
+Backend Development
 Software Architecture
-Distributed Systems
-Data Engineering
-Machine Learning
-Artificial Intelligence
-Cloud Computing
+Algorithms & Data Structures
+Operating Systems
 Databases
-Game Development
-Developer Tools
+Cloud Computing
+Artificial Intelligence
+Machine Learning
 ```
 
-## 💡 O que gosto de construir
+---
 
-Tenho interesse principalmente em projetos como:
+## 🎮 Além do código
 
-* SaaS
-* APIs e sistemas backend
-* Marketplaces
-* Sistemas distribuídos
-* Automações
-* Ferramentas para desenvolvedores
-* Plataformas utilizando IA
-* Sistemas orientados a dados
-* Jogos e ferramentas para Game Development
+Quando não estou trabalhando ou estudando desenvolvimento de software, gosto de explorar **Game Development**.
 
-## 📚 Atualmente estudando
+Tenho interesse na criação de:
 
-Estou aprofundando meus conhecimentos em:
+* Sistemas de gameplay
+* Inteligência Artificial para jogos
+* Mecânicas
+* Arquitetura de jogos
+* Jogos de terror
+* Experiências multiplayer
+* Procedural Generation
 
-* Estruturas de Dados e Algoritmos
-* Sistemas Operacionais
-* Arquitetura de Software
-* Bancos de Dados
-* Sistemas Distribuídos
-* Cloud Computing
-* Inteligência Artificial
-* Machine Learning
+---
