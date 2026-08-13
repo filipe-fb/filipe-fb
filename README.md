@@ -1,4 +1,4 @@
-# Olá 👋 Meu nome é Filipe Fonseca
+# Olá 👋 Meu nome é Filipe
 
 ---
 
