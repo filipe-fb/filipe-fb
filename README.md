@@ -1,6 +1,6 @@
 # Olá, eu sou o Filipe! 👋
 
-**Full Stack Developer | AI Engineering | Ciência da Computação @ UERJ**
+**Full Stack Developer | AI Engineer | Ciência da Computação @ UERJ**
 
 Sou estudante de **Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ)** e desenvolvo aplicações completas, da arquitetura e implementação à integração de APIs, bancos de dados e infraestrutura.
 
@@ -8,7 +8,7 @@ Meu foco está em **Desenvolvimento Full Stack, Engenharia de Software e Engenha
 
 ## 🚀 Áreas de atuação e interesse
 
-- **Full Stack & Backend:** aplicações web, APIs REST, integrações e arquitetura de sistemas.
+- **Full Stack:** aplicações web, APIs REST, integrações e arquitetura de sistemas.
 - **Inteligência Artificial:** integração de LLMs e APIs de IA, automação de processos e uso de ferramentas como OpenAI e Codex, com revisão e validação técnica.
 - **Bancos de dados & Cloud:** PostgreSQL, Supabase, Docker, infraestrutura e serviços em nuvem, incluindo OCI.
 - **Engenharia de Software:** estruturação de projetos, segurança, manutenibilidade e escalabilidade.
